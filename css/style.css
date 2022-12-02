@@ -488,15 +488,3 @@ li {
     color:  rgb(120,120,120);
     font-weight: normal
 }
-
-
-table {
-  table-layout: fixed;
-  width: 200px;
-}
-
-th,
-td {
-  width: 100px;
-  overflow: hidden;
-}
