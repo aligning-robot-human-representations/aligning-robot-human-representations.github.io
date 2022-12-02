@@ -490,4 +490,13 @@ li {
 }
 
 
+table {
+  table-layout: fixed;
+  width: 200px;
+}
 
+th,
+td {
+  width: 100px;
+  overflow: hidden;
+}
